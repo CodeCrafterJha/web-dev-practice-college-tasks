@@ -1,2 +1,17 @@
-# web-dev-practice-college-tasks
-Web Development Practice Code assigned by college professor – covers HTML, CSS, JavaScript, and responsive design projects.
+Goverment Engineering College Munger
+(Computer Science & Engineering , Artificial Inteligence)
+
+Subject :- Introduction to web design
+
+Created BY :-
+
+Name :- Bhanu Prakash Jha.
+
+Roll Number :- 24151006.
+
+Registration Number :- 24151144035.
+
+Semester :- 2nd.
+
+
+Academy Session :- 2024 - 2028
