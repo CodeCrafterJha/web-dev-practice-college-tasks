@@ -1,0 +1,73 @@
+/* General Reset */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Top Navbar */
+.top-navbar {
+    background-color: #f5f5f5;
+    padding: 5px 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+    font-size: 14px;
+    border-bottom: 1px solid #ccc;
+}
+
+.top-navbar a {
+    text-decoration: none;
+    color: #000;
+}
+
+.language-selector {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+/* Header Banner */
+.header-banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: linear-gradient(to right, #4e4e92, #aab);
+    padding: 15px 30px;
+    color: white;
+}
+
+.header-banner .logo {
+    height: 100px;
+}
+
+.title-text {
+    text-align: center;
+}
+
+.title-text h1 {
+    margin: 0;
+    font-size: 36px;
+    letter-spacing: 5px;
+}
+
+.title-text h2 {
+    margin: 5px 0 0;
+    font-size: 24px;
+}
+
+/* Bottom Navbar */
+.bottom-navbar {
+    background-color: #0078d7;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.bottom-navbar a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
